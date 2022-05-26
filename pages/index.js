@@ -26,8 +26,8 @@ export default function Home({ posts }) {
 					) : (
 						<ul className='flex flex-row gap-4 flex-wrap'>
 							{posts.map((post, i) => (
-								<li className='border p-2 rounded-xl'>
-									<PostCard post={post} key={i} />
+								<li key={i} className='border p-2 rounded-xl'>
+									<PostCard post={post} />
 								</li>
 							))}
 						</ul>
