@@ -1,0 +1,16 @@
+.nav {
+    margin-top:2rem;
+    width: 100%;
+    padding-bottom:.5rem;
+    border-bottom: 1px solid #ccc;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.item {
+    margin-right: 12px;
+}
