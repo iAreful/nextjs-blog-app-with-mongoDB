@@ -6,6 +6,14 @@
 ![cluster](https://user-images.githubusercontent.com/15269933/170432208-7f770934-6ed6-444f-bbf7-69157aa66068.png)
 
 
+## To-do:
+- [x] Publish
+- [x] add option
+- [x] delete option
+- [ ] into electron version
+- [x] Brainstorming 🧠
+- [ ] etc
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
